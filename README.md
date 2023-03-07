@@ -36,7 +36,7 @@ ft_memmove - copy byte string.
 ft_memcpy - copy memory area.
 ft_memccpy - copy string until character found.
 
-#Functions from <string.h> library
+# Functions from <string.h> library
 ft_strlen - find length of string.
 ft_strlen_2 * - find length of 2D array (i.e. splitted string).
 ft_strchr - locate character in string (first occurrence).
@@ -78,7 +78,7 @@ ft_split_free * - free splitted string.
 ft_strmapi - create new string from modifying string with specified function.
 ft_ftoa_rnd - convert float to ASCII string.
 
-#Linked list functions
+# Linked list functions
 ft_lstnew - create new list.
 ft_lstsize - count elements of a list.
 ft_lstlast - find last element of list.
